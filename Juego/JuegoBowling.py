@@ -18,9 +18,6 @@ class JuegoBowling(object):
     def cuentaFrameTodos(self):
         return
     
-       
-        
-    
     
                 
     
